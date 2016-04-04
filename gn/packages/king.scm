@@ -26,7 +26,7 @@
 ;; WARNING: This is non-free software. It will NEVER and SHOULD NEVER be
 ;; mainlined in GNU Guix.  You should avoid using this package, and if you
 ;; can, please write a free replacement for it.
-(define-public king
+(define-public king-bin
   (package
     (name "king")
     (version "1.9")
